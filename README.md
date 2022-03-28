@@ -1,21 +1,19 @@
 # magaonischool
 
-uses firebase storage
+Simple school website that uses firebase Auth and storage
 
 ## Project setup
-```
+> Download dependencies
+```npm
 npm install
 ```
 
-### Compiles and hot-reloads for development
+> Compiles and hot-reloads for development
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
+> Compiles and minifies for production
+```npm
 npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
