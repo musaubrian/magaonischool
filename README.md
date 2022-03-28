@@ -1,6 +1,9 @@
 # magaonischool
 
-Simple school website that uses firebase Auth and storage
+## About the project
+
+This project is a simple school website built with `Vue` and
+uses **Firebase Auth and storage**
 
 ## Project setup
 > Download dependencies
