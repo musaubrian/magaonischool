@@ -1,6 +1,6 @@
 <template>
 <section class="staff">
-    <div class="staff">
+    <div class="aboutStaff">
 
     </div>
 </section>
@@ -14,10 +14,11 @@ export default {
 </script>
 
 <style>
-.staff{
+.aboutStaff{
     background: #530899;
-    height: 40vh;
+    height: 50vh;
     width: 100%;
+    padding: 1rem;
 }
 
 </style>
